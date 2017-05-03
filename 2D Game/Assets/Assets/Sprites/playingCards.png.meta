@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 1d44c965121daa74c99a9b791da657de
+timeCreated: 1475725861
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cardClubs10.png
+    21300002: cardClubs2.png
+    21300004: cardClubs3.png
+    21300006: cardClubs4.png
+    21300008: cardClubs5.png
+    21300010: cardClubs6.png
+    21300012: cardClubs7.png
+    21300014: cardClubs8.png
+    21300016: cardClubs9.png
+    21300018: cardClubsA.png
+    21300020: cardClubsJ.png
+    21300022: cardClubsK.png
+    21300024: cardClubsQ.png
+    21300026: cardDiamonds10.png
+    21300028: cardDiamonds2.png
+    21300030: cardDiamonds3.png
+    21300032: cardDiamonds4.png
+    21300034: cardDiamonds5.png
+    21300036: cardDiamonds6.png
+    21300038: cardDiamonds7.png
+    21300040: cardDiamonds8.png
+    21300042: cardDiamonds9.png
+    21300044: cardDiamondsA.png
+    21300046: cardDiamondsJ.png
+    21300048: cardDiamondsK.png
+    21300050: cardDiamondsQ.png
+    21300052: cardHearts10.png
+    21300054: cardHearts2.png
+    21300056: cardHearts3.png
+    21300058: cardHearts4.png
+    21300060: cardHearts5.png
+    21300062: cardHearts6.png
+    21300064: cardHearts7.png
+    21300066: cardHearts8.png
+    21300068: cardHearts9.png
+    21300070: cardHeartsA.png
+    21300072: cardHeartsJ.png
+    21300074: cardHeartsK.png
+    21300076: cardHeartsQ.png
+    21300078: cardJoker.png
+    21300080: cardSpades10.png
+    21300082: cardSpades2.png
+    21300084: cardSpades3.png
+    21300086: cardSpades4.png
+    21300088: cardSpades5.png
+    21300090: cardSpades6.png
+    21300092: cardSpades7.png
+    21300094: cardSpades8.png
+    21300096: cardSpades9.png
+    21300098: cardSpadesA.png
+    21300100: cardSpadesJ.png
+    21300102: cardSpadesK.png
+    21300104: cardSpadesQ.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cardClubs10.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1098
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs2.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 718
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs3.png
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1668
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs4.png
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1858
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs5.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 148
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs6.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 338
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs7.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 528
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs8.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 718
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubs9.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 908
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubsA.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1288
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubsJ.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1478
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubsK.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1668
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardClubsQ.png
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1858
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds10.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1668
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds2.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 148
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds3.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 338
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds4.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 528
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds5.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 718
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds6.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 908
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds7.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1098
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds8.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1288
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamonds9.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1478
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamondsA.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1858
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamondsJ.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 148
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamondsK.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 338
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardDiamondsQ.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 528
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts10.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 338
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts2.png
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1478
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts3.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 908
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts4.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1098
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts5.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1288
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts6.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1478
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts7.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1668
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts8.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1858
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHearts9.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 148
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHeartsA.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 528
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHeartsJ.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 718
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHeartsK.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 908
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardHeartsQ.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1098
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardJoker.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1288
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades10.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades2.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1478
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades3.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1668
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades4.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1858
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades6.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades7.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades8.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpades9.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpadesA.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1288
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpadesJ.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpadesK.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardSpadesQ.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1858
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

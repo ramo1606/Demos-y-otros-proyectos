@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: a4a615e8ad50b3e4f8f1b511154b98d6
+timeCreated: 1475725826
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cardBack_blue1.png
+    21300002: cardBack_blue2.png
+    21300004: cardBack_blue3.png
+    21300006: cardBack_blue4.png
+    21300008: cardBack_blue5.png
+    21300010: cardBack_green1.png
+    21300012: cardBack_green2.png
+    21300014: cardBack_green3.png
+    21300016: cardBack_green4.png
+    21300018: cardBack_green5.png
+    21300020: cardBack_red1.png
+    21300022: cardBack_red2.png
+    21300024: cardBack_red3.png
+    21300026: cardBack_red4.png
+    21300028: cardBack_red5.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cardBack_blue1.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 454
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_blue2.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 264
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_blue3.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 454
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_blue4.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 644
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_blue5.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 834
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_green1.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 74
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_green2.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 264
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_green3.png
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 74
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_green4.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 644
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_green5.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 834
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_red1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_red2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_red3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_red4.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    - name: cardBack_red5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 95}
+        - {x: -70, y: -95}
+        - {x: 70, y: -95}
+        - {x: 70, y: 95}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{63AF0295-79A4-ED16-68AA-FA633299B1EC}") = "3rd Person Game", "Assembly-CSharp.csproj", "{5C8785CF-D0BB-185A-4636-DC3E823FAF9A}"
+EndProject
+Project("{63AF0295-79A4-ED16-68AA-FA633299B1EC}") = "3rd Person Game", "Assembly-CSharp-Editor.csproj", "{3F073C6D-F314-029C-F1C3-D14B6B92F719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8785CF-D0BB-185A-4636-DC3E823FAF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8785CF-D0BB-185A-4636-DC3E823FAF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8785CF-D0BB-185A-4636-DC3E823FAF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8785CF-D0BB-185A-4636-DC3E823FAF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F073C6D-F314-029C-F1C3-D14B6B92F719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F073C6D-F314-029C-F1C3-D14B6B92F719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F073C6D-F314-029C-F1C3-D14B6B92F719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F073C6D-F314-029C-F1C3-D14B6B92F719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
